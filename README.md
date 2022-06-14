@@ -21,9 +21,7 @@ Hi, I'm Niels Verleysen
 
 You can check out a selection of these projects [here](https://verleysenniels.github.io/)
 
-<img src="https://github.com/VerleysenNiels/VerleysenNiels.github.io/blob/master/images/showcase/qlearning-showcase.gif?raw=true" height="200">
-<img src="https://github.com/VerleysenNiels/VerleysenNiels.github.io/blob/master/images/showcase/five_rectangles_bridge.gif?raw=true" height="200">
-<img src="https://github.com/VerleysenNiels/VerleysenNiels.github.io/blob/master/images/showcase/yolo-showcase-1.gif?raw=true" height="200">
+<img src="https://github.com/VerleysenNiels/VerleysenNiels.github.io/blob/master/images/showcase/qlearning-showcase.gif?raw=true" height="200"><img src="https://github.com/VerleysenNiels/VerleysenNiels.github.io/blob/master/images/showcase/five_rectangles_bridge.gif?raw=true" height="200"><img src="https://github.com/VerleysenNiels/VerleysenNiels.github.io/blob/master/images/showcase/yolo-showcase-1.gif?raw=true" height="200">
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niels-verleysen-34bb50175) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@niels.verleysen) 
