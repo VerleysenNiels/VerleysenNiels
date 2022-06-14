@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫About Me :
-Hi, I'm Niels Verleysen\
+# 👋 Hi, I'm Niels Verleysen
 👷‍♂️ AI System Engineer at Verhaert, mostly doing research and development of intelligent systems\
 🌱 Deepening my knowledge in deep learning and data analysis\
 📚 This profile has evolved from a place to put my student projects to a playground for all kinds of stuff. 
