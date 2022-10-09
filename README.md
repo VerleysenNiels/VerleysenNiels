@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 🌱 Deepening my knowledge in deep learning and data analysis\
 📚 This profile has evolved from a place to put my student projects to a playground for all kinds of stuff. 
 
+Fun fact: I generated my profile picture using a stable diffusion model that I finetuned to generate images featuring myself!
+
 You can check out a selection of these projects [here](https://verleysenniels.github.io/)
 
 <img src="https://github.com/VerleysenNiels/VerleysenNiels.github.io/blob/master/images/showcase/qlearning-showcase.gif?raw=true" height="200"><img src="https://github.com/VerleysenNiels/VerleysenNiels.github.io/blob/master/images/showcase/five_rectangles_bridge.gif?raw=true" height="200"><img src="https://github.com/VerleysenNiels/VerleysenNiels.github.io/blob/master/images/showcase/yolo-showcase-1.gif?raw=true" height="200">
