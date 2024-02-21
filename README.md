@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Niels Verleysen
-👷‍♂️ Senior Data Scientist at Verhaert, performing applied AI research for intelligent systems, aiding startups and market leaders alike.\
+👷‍♂️ AI and Data Chapter Lead at Verhaert, performing applied AI research for intelligent systems, aiding startups and market leaders alike.\
 🌱 Trying to keep up with the incredibly rapid progress in artificial intelligence and data science.\
 📚 This profile has evolved from a place to put my student projects to a playground for all kinds of stuff. 
 
