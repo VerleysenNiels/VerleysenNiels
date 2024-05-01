@@ -12,8 +12,4 @@ You can check out a selection of my projects and insights [here](https://verleys
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niels-verleysen-34bb50175) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@niels.verleysen) 
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=VerleysenNiels&theme=nord&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VerleysenNiels&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VerleysenNiels&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
