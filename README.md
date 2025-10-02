@@ -2,6 +2,7 @@
 👷‍♂️ AI and Data Chapter Lead at Verhaert, performing applied AI research for intelligent systems, aiding startups and market leaders alike.\
 🌱 Trying to keep up with the incredibly rapid progress in artificial intelligence and data science.\
 📚 This profile has evolved from a place to put my student projects to a playground for all kinds of stuff. 
+🎥 Amateur photgrapher and videographer - check out my portfolio [here](https://nielsverleysen.com)
 
 Fun fact: I generated my profile picture using a stable diffusion model that I finetuned to generate images featuring myself!
 
